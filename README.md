@@ -1,6 +1,6 @@
 # Meal Drop
 
-<img src="intro.png" width="300">
+<img src="intro.png">
 <img src="landing.png">
 <img src="signup.png">
 <img src="main.png">
