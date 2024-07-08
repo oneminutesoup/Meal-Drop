@@ -13,7 +13,7 @@
 Want to assist the campus with feeding students? Contact matthiaswang1667@gmail.com to set-up a partnership with the UAlberta Food Bank. Visit the website for more information https://campusfoodbank.com/
 
 ## Inspiration
-After creating Pento Bento, which placed top 3 in HackCamp 2021, I wanted to independently deploy my own version of the project to production. Many of us who previously worked in a restaurant know all too well the problem of food waste. In the United States, food waste makes up around **30 to 40 percent** of the food supply. At the same time, **690 million people** go to bed on an **empty stomach worldwide.** **Mealdrop** aims to mitigate this problem. 
+After creating Pento Bento, which placed 1st in HackCamp 2021, I wanted to independently deploy my own version of the project to production. Many of us who previously worked in a restaurant know all too well the problem of food waste. In the United States, food waste makes up around **30 to 40 percent** of the food supply. At the same time, **690 million people** go to bed on an **empty stomach worldwide.** **Mealdrop** aims to mitigate this problem. 
 
 ## What it does
 **Mealdrop** is an ingenious application that helps solve food waste absolutely for free! Restaurants with extra food can create a posting within minutes, detailing the food and pickup options. Once a food bank notices a nearby posting, they can submit a pickup request and collect the extra food whenever they wish.
